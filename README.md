@@ -48,3 +48,10 @@ Figure 4
   * 6% воды — 36%
   * 7% воды — 31%
   * 8% воды — 28%
+
+На фиг.5 показаны датчики без войлока и с войлоком.
+
+![Figure 5](https://github.com/akouz/Soil_moisture/blob/master/pic/Fig_5.png)
+
+Figure 5
+
