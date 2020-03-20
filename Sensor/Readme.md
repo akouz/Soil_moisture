@@ -16,3 +16,9 @@
     * в воздухе - 18.8 kHz
     * в почве - 18.3 kHz
     * в воде - 9.8 kHz
+
+Датчик, подготовленный для измерения S11, показан на Fig.1ю
+
+![Figure 1](https://github.com/akouz/Soil_moisture/blob/master/Sensor/S11.jpg)
+
+Figure 1
