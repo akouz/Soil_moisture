@@ -27,3 +27,10 @@
 ![Figure 1](https://github.com/akouz/Soil_moisture/blob/master/Sensor/S11.jpg)
 
 Figure 1
+
+Частота генератора зависит от количества влаги в почве как покаано на Fig.2. Измерения проводились в песчаном суглинке, горизонтальная ось - количество воды в объеме.
+
+![Figure 2](https://github.com/akouz/Soil_moisture/blob/master/Sensor/Freq_vs_water.jpg)
+
+Figure 2
+
