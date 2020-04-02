@@ -22,10 +22,10 @@ Figure 2
 
 S11 для датчика в воздухе и в посче с 10% воды приведены на Fig.3 и Fig.4
 
-![Figure 3](https://github.com/akouz/Soil_moisture/blob/master/Sensor/S11_air.jpg)
+![Figure 3](https://github.com/akouz/Soil_moisture/blob/master/Sensor/S11_air.png)
 
 Figure 3
 
-![Figure 4](https://github.com/akouz/Soil_moisture/blob/master/Sensor/S11_soil.jpg)
+![Figure 4](https://github.com/akouz/Soil_moisture/blob/master/Sensor/S11_soil.png)
 
 Figure 4
